@@ -1,0 +1,12 @@
+[
+    {"Id":"0015g00000RRfZPAA1","Name":"Sample Account for Entitlements"},
+    {"Id":"0015g00000S0jc0AAB","Name":"GenePoint","Type":"Customer - Channel","Industry":"Biotechnology"},
+    {"Id":"0015g00000S0jbyAAB","Name":"United Oil & Gas, UK","Type":"Customer - Direct","Industry":"Energy"},
+    {"Id":"0015g00000S0jbzAAB","Name":"United Oil & Gas, Singapore","Type":"Customer - Direct","Industry":"Energy"},
+    {"Id":"0015g00000S0jbqAAB","Name":"Edge Communications","Type":"Customer - Direct","Industry":"Electronics"},
+    {"Id":"0015g00000S0jbrAAB","Name":"Burlington Textiles Corp of America","Type":"Customer - Direct","Industry":"Apparel"},
+    {"Id":"0015g00000S0jbsAAB","Name":"Pyramid Construction Inc.","Type":"Customer - Channel","Industry":"Construction"},
+    {"Id":"0015g00000S0jbtAAB","Name":"Dickenson plc","Type":"Prospect","Industry":"Consulting"},
+    {"Id":"0015g00000S0jbuAAB","Name":"Grand Hotels & Resorts Ltd","Type":"Customer - Direct","Industry":"Hospitality"},
+    {"Id":"0015g00000S0jbwAAB","Name":"Express Logistics and Transport","Type":"Customer - Channel","Industry":"Transportation"}
+]
