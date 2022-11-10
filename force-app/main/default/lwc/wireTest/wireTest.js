@@ -5,7 +5,7 @@ export default class WireTest extends LightningElement
     @wire(getAccountList)
     accs;
 
-    renderedCallback()
+    renderedCallback() 
     {
       console.log('Data Loaded');
       console.log(JSON.stringify(this.accs));
