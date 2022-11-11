@@ -36,4 +36,4 @@ jobs:
           echo test, and deploy your project.
           
        - name: Convert from SFDX to Mdapi
-        run: sfdx force:source:convert -r "https://github.com/KS199723/Ci-Cd-demo/tree/master" -d "https://github.com/KS199723/Ci-Cd-demo/tree/master/mdapi" -n 'My Package'
+        run: 
